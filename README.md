@@ -1,6 +1,6 @@
 ## Hi, I'm Daniel 👊
 
-Welcome to my GitHub profile! I'm passionate about data, so the main content that you will find in my repositories will circle around ETL, Queries and many more 😉
+Welcome to my GitHub profile! I'm passionate about data, so the main content that you will find in my repositories will circle around Data related topics 😉
 
 ## 🔧 Skills & Tools
 
