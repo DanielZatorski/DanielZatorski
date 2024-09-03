@@ -10,3 +10,6 @@ Welcome to my GitHub profile! I'm passionate about data, so the main content tha
 ![Power Query](https://img.shields.io/badge/Power%20Query-2E73B8?style=for-the-badge&logo=microsoft&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white)
+
+
+<meta name="google-site-verification" content="KnKDtWtHkScywA-cn_CW5uZdE1KWn2U-jFzy3eb4d5w" />
