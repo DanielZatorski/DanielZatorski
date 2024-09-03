@@ -1,4 +1,5 @@
 <meta name="google-site-verification" content="KnKDtWtHkScywA-cn_CW5uZdE1KWn2U-jFzy3eb4d5w" />
+<meta name="google-site-verification" content="Apib7-x98H0j5cPqHWwSMm6dNU4GmODRoqxLiDzdx9I" />
 
 ## Hi, I'm Daniel 👊
 
