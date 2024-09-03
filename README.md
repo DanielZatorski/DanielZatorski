@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="KnKDtWtHkScywA-cn_CW5uZdE1KWn2U-jFzy3eb4d5w" />
+
 ## Hi, I'm Daniel 👊
 
 Welcome to my GitHub profile! I'm passionate about data, so the main content that you will find in my repositories will circle around Data related topics 😉
@@ -12,4 +14,3 @@ Welcome to my GitHub profile! I'm passionate about data, so the main content tha
 ![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white)
 
 
-<meta name="google-site-verification" content="KnKDtWtHkScywA-cn_CW5uZdE1KWn2U-jFzy3eb4d5w" />
