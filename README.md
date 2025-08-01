@@ -26,7 +26,6 @@ I'm passionate about creating clean, responsive interfaces and exploring how dat
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Power Query](https://img.shields.io/badge/Power%20Query-2E73B8?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ### ☁️ Cloud & AWS
 
