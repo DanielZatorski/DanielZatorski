@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile!
 
-I'm currently studying to become a **Front-End Developer**, building on my background in **IT systems analysis**. My repositories reflect my journey — combining front-end technologies with data-driven solutions.
+I'm currently studying to become a **Front-End Developer**, building on my background in **BI development**. My repositories reflect my journey — combining front-end technologies with data-driven solutions.
 
 I'm passionate about creating clean, responsive interfaces and exploring how data can empower better design and decision-making.
 
