@@ -1,38 +1,34 @@
-<meta name="google-site-verification" content="KnKDtWtHkScywA-cn_CW5uZdE1KWn2U-jFzy3eb4d5w" />
+## Hi, I'm Daniel 👋
 
-## Hi, I'm Daniel 👊
+I'm a **Cloud Data Engineer** with a background in BI development, focused on cloud data pipelines, IoT data, and event-driven architectures on AWS.
 
-Welcome to my GitHub profile!
+I build solutions that collect, process, and store data from connected devices and cloud services — turning raw events into reliable business insights.
 
-I'm currently studying to become a **Front-End Developer**, building on my background in **BI development**. My repositories reflect my journey — combining front-end technologies with data-driven solutions.
+---
 
-I'm passionate about creating clean, responsive interfaces and exploring how data can empower better design and decision-making.
+## 🚀 What I Do
+
+- Design and maintain cloud-based data pipelines (AWS Lambda, SNS, DynamoDB, S3, Athena)
+- Process IoT and event-driven data from connected devices
+- Build ETL workflows using Python and SQL
+- Create data models and reporting solutions in Power BI
+- Automate data integrations and bridge BI, analytics, and cloud engineering
+
+---
 
 ## 📚 Currently Learning
 
-- JavaScript
-- Front-End Development best practices
+- Advanced AWS data services and serverless architecture
+- IoT data pipeline design and event-driven patterns
+- Scalable data engineering best practices
+- Server hosting
+- Automations utilizing AI
 
-## 🔧 Skills & Tools
+---
 
-### 👨‍💻 Front-End & Programming
+## 📬 Get in Touch
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-zatorski-a22b9813b/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zatorskidaniel@gmail.com)
 
-### 🗄️ Data & BI
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### ☁️ Cloud & AWS
-
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
-![Amazon SNS](https://img.shields.io/badge/Amazon%20SNS-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS IoT](https://img.shields.io/badge/AWS%20IoT-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white)
-
-
+Thanks for stopping by!
